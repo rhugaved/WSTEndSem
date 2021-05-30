@@ -1,0 +1,11 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "WST End Sem Examination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "111803084",
+  "license": "ISC"
+}
